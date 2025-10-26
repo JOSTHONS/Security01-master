@@ -25,7 +25,7 @@ import mx.edu.utng.jdrj.security01.ui.components.LoadingButton
 import mx.edu.utng.jdrj.security01.viewmodel.AuthViewModel
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.setValue
-import mx.edu.utng.arg.security01.R
+import mx.edu.utng.jdrj.security01.R
 
 
 /**
