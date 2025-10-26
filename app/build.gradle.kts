@@ -9,7 +9,7 @@ android {
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "mx.edu.utng.arg.security01"
+        applicationId = "mx.edu.utng.jdrj.security01"
         minSdk = 24
         targetSdk = 36
         versionCode = 1
