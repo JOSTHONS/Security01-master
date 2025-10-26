@@ -17,7 +17,7 @@ import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import androidx.lifecycle.viewmodel.compose.viewModel
 import kotlinx.coroutines.delay
-import mx.edu.utng.arg.security01.R
+import mx.edu.utng.jdrj.security01.R
 import mx.edu.utng.jdrj.security01.viewmodel.AuthViewModel
 
 /**
